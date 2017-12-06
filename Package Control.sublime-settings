@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Color Highlighter",
+		"CSS3",
+		"EJS 2",
+		"GitSavvy",
+		"JsFormat",
+		"MiniPy",
+		"OmnisStudioHighlighter",
+		"Package Control",
+		"PostgreSQL Syntax Highlighting",
+		"RawLineEdit",
+		"Sails Snippets",
+		"SFTP",
+		"Syntax Highlighting for PostCSS",
+		"Syntax Highlighting for Sass",
+		"Terminal",
+		"TypeScript"
+	],
+	"repositories":
+	[
+		"https://github.com/vim-zz/MiniPy"
+	]
+}
