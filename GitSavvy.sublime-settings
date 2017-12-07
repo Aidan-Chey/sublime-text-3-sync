@@ -20,7 +20,7 @@
                 "windows": "C:/Program Files/Git/cmd/git.exe"
             },
      */
-    "git_path": "C:\\Users\\FreeDAM\\AppData\\Local\\GitHub\\PortableGit_f02737a78695063deace08e96d5042710d3e32db\\cmd\\git.exe",
+    "git_path": "C:\\Program Files\\Git\bingit.exe",
 
     /*
         Change this to `true` when doing dev work on GitSavvy.
