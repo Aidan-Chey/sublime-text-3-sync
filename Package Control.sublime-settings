@@ -9,6 +9,7 @@
 		"Color Highlighter",
 		"CSS3",
 		"EJS 2",
+		"Emmet",
 		"GitSavvy",
 		"JsFormat",
 		"MiniPy",
@@ -17,9 +18,9 @@
 		"PostgreSQL Syntax Highlighting",
 		"RawLineEdit",
 		"Sails Snippets",
+		"Sass",
 		"SFTP",
 		"Syntax Highlighting for PostCSS",
-		"Syntax Highlighting for Sass",
 		"Terminal",
 		"TypeScript"
 	],
